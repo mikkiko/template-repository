@@ -34,6 +34,9 @@ Can be found in [RELEASE_NOTES](RELEASE_NOTES.md).
 ## Authors
 * Mykola Kostyshyn - [mikkiko](https://github.com/mikkiko)
 
+##Acknowledgments
+...
+
 ## Contributing
 Please, follow [Contributing](CONTRIBUTING.md) page.
 
